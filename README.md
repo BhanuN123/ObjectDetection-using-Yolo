@@ -12,7 +12,7 @@ The dataset used for training and testing the model can be downloaded from the f
 
 ## Files in the Repository
 
-- `dil_conv.ipynb`: A Jupyter Notebook containing the implementation details of the dilated convolution approach used in this project.
+- `dil_conv.ipynb`: A Collab Notebook containing the implementation details of the dilated convolution approach used in this project.
 - `epoch10_dilconv_best.pt`: The trained model weights after 10 epochs using the dilated convolution method.
 - `README.md`: This file provides an overview and instructions related to the project.
 - `LICENSE`: Details the licensing information for this project.
