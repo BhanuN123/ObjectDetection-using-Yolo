@@ -1,4 +1,3 @@
-# ObjectDetection-using-Yolo
 # Object Detection using YOLO
 
 ## Overview
